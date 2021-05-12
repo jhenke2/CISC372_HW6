@@ -1,6 +1,7 @@
 //HW6 Part 2: Cuda slow blur
 //Justin Henke
 //Kara Pelster
+//ran on cisc372 virtual machine using srun
 //5/11/21
 
 //Original header:

@@ -1,6 +1,7 @@
 //HW6 Part 3: Cuda fast blur without managed memory
 //Justin Henke
 //Kara Pelster
+//ran on cisc372 virtual machine with srun
 //5/11/21
 
 //Original file header below:
